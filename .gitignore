@@ -1,0 +1,60 @@
+# .gitignore für Ordner Strukturen
+# -------------------------------------------------------------------------
+
+# ==========================================
+# macOS Systemdateien
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Symboldateien & Ordner-Einstellungen
+Icon?
+.Spotlight-V100
+.Trashes
+
+# ==========================================
+# AppleScript & Skripteditor
+# ==========================================
+# Falls du reine Skripttexte (.applescript) trackst, 
+# kannst du temporäre/kompilierte Laufzeit-Skripte ignorieren:
+# *.scpt~
+# *.app~
+
+# Falls Skripte als .app-Bundle gespeichert werden, 
+# aber benutzerspezifische Daten enthalten:
+# (Auskommentieren, falls du .app-Bundles komplett ignorieren willst)
+# *.app/
+
+# ==========================================
+# Entwicklungsumgebungen & Editoren
+# ==========================================
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+# Xcode / BBEdit / Xcode-Artefakte
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+
+# ==========================================
+# Temporäre Dateien & Beispieldaten-Locks
+# ==========================================
+*.tmp
+*.log
+*.swp
+*.bak
+.env
+.env.local
+
+# Beispieldateien: Lokale Test-Ausgaben ignorieren, 
+# aber Vorlagen (z.B. sample.json) im Repo behalten:
+/build/
+/dist/
+/out/
