@@ -4,7 +4,7 @@ Dieses AppleScript liest Konto-Transaktionen aus einer JSON-Exportdatei ein und 
 
 
 <img src="Numbers-Konto-Import_Bedienungsanleitung.png" alt="Numbers-Konto-Import" height="800"/>
-
+<img src="Numbers-Konto-Import_Bedienungsanleitung.png" alt="Numbers-Konto-Import" height="800" style="width: auto; max-height: 800px; object-fit: contain;"/>
 ---
 
 ## ⚙️ Voraussetzungen
