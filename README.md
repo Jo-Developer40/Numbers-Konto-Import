@@ -2,9 +2,9 @@
 
 Dieses AppleScript liest Konto-Transaktionen aus einer JSON-Exportdatei ein und verbucht die Beträge automatisch oder interaktiv in deinem **Apple Numbers**-Finanzdokument.
 
-
+<div style="max-height: 200px; overflow: hidden;">
 <img src="Numbers-Konto-Import_Bedienungsanleitung.png" alt="Numbers-Konto-Import"/>
-
+</div>
 ---
 
 ## ⚙️ Voraussetzungen
